@@ -19,7 +19,6 @@ public class App {
 
     }
 
-
     private static class Figuras {
         int a;
         int b;
